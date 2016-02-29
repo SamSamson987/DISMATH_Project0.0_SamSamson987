@@ -4,14 +4,14 @@
 
 • Designer
 
-![Screenshot.2](Screenshot.2.jpg)
+![SC1](SC1.PNG)
 
 
 • Blocks
 
-![Screenshot.1](Screenshot.1.jpg)
+![SC2](SC2.PNG)
 
 
 • From the phone
 
-![Screenshot.3](Screenshot.3.jpg)
+![SC3](SC3.jpg)
